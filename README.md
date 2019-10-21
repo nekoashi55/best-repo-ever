@@ -1,4 +1,4 @@
 # best-repo-ever
 トレイルヘッド中
 
-Edited at new-branch-1.
+edit at new-branch-2
